@@ -1,4 +1,5 @@
 'use strict';
+console.log('-- begin --');
 
 /*
   hint: use JS Tutor
@@ -38,3 +39,6 @@ delete greetings[concernedGreeting];
 console.log(greetings.concerned); // undefined
 
 // https://github.com/janke-learning/dots-vs-brackets
+
+
+console.log('-- end --');
